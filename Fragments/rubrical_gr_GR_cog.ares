@@ -8,3 +8,5 @@ Aloud = "(ἐκφώνως)"
 
 Error = "This line has
 an erroneous break."
+
+Aloud = "deliberate duplicate key"
